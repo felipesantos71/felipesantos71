@@ -2,7 +2,6 @@
 
 <h1 align="left">Felipe Santos</h1>
 
-![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffelipe-santos-11a956306%2F)
 
 
 <p> 📖 Olá, atualmente estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.</p>
