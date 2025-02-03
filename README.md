@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">✋ Hello I'm Felipe </h1>
 
-<!--
-**felipesantos71/felipesantos71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Olá, atualmente estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.</p>
 
-Here are some ideas to get you started:
+<h2>TECNOLOGIAS</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JAVA-red?style=flat-square)
+![Static Badge](https://img.shields.io/badge/DOCKER-gray?style=flat-square&logo=docker&labelColor=darkblue)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&labelColor=white)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-orange?style=flat-square&logo=javascript)
+![Static Badge](https://img.shields.io/badge/HTML-green?style=flat-square&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-lightblue?style=flat-square&logo=css)
+
+<h3>  </h3>
+
+<div>
+<a href="https://github.com/felipesantos71">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos71&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesantos71&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
