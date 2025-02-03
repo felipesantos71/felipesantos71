@@ -1,4 +1,4 @@
-<h> ![old pc (1)](https://github.com/user-attachments/assets/e675857b-7066-483a-8a4e-f3efe1468a5a) </h>
+<h> ![old pc (3)](https://github.com/user-attachments/assets/9ce23b16-1170-4795-a80a-3c5fac333c24) </h>
 
 <h1 align="center">🫡 Hello I'm Felipe </h1>
 
