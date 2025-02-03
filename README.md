@@ -1,10 +1,10 @@
-<h align="center"> ![old pc](https://github.com/user-attachments/assets/efeec302-43cd-4be1-9b09-411ad3cfe9cf) </h>
+<h> ![old pc (1)](https://github.com/user-attachments/assets/e675857b-7066-483a-8a4e-f3efe1468a5a) </h>
 
-<h1 align="center">✋ Hello I'm Felipe </h1>
+<h1 align="center">🫡 Hello I'm Felipe </h1>
 
-<p> Olá, atualmente estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.</p>
+<p> 📖 Olá, atualmente estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.</p>
 
-<h2>TECNOLOGIAS</h2>
+<h2>🖥️ Tecnologias 🖥️</h2>
 
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JAVA-red?style=flat-square)
@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML-green?style=flat-square&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-lightblue?style=flat-square&logo=css)
 
-<h3>  </h3>
+<h3> 📉 Status Github </h3>
 
 <div>
 <a href="https://github.com/felipesantos71">
