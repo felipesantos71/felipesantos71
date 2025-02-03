@@ -1,3 +1,5 @@
+<h align="center"> ![old pc](https://github.com/user-attachments/assets/efeec302-43cd-4be1-9b09-411ad3cfe9cf) </h>
+
 <h1 align="center">✋ Hello I'm Felipe </h1>
 
 <p> Olá, atualmente estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.</p>
