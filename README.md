@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&labelColor=black)](https://www.linkedin.com/in/felipe-santos-11a956306/)
 
-<p> 📖 Olá, atualmente estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.</p>
+<p> 📖 Olá, Técnico em análise e desenvolvimento de sistemas pelo Senai Dendezeiros.</p>
 
 <h2>🖥️ Tecnologias 🖥️</h2>
 
